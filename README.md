@@ -4,8 +4,8 @@ I am a Computer Science student at the University of Alabama with a passion for 
 
 - 🔭 I’m currently working as a Data Analyst Intern for The Westervelt Company.
 - 🌱 I’m currently focused on C++, Python, AI, and financial modeling.
-- 💬 Ask me about C++, Python, FinTech, and data structures.
-- ⚡ Fun fact: My pitch for "Beacon AI," an AI-powered mental health first-aid app, was selected as a winning venture at the University of Alabama's Big Ideas competition!
+- 💬 Ask me about AI, automation and Machine Learning.
+- ⚡ Fun fact: As the SGA's Director of Technology, I used Python to boost process efficiency by 85%. Now, as Treasurer, I help manage a student organization fund of over          $300,000.
 - 📫 How to reach me: **kgaur@crimson.ua.edu** or on [**LinkedIn**](https://www.linkedin.com/in/karthik-gaur-815861167/)
 
 ---
@@ -28,13 +28,13 @@ I am a Computer Science student at the University of Alabama with a passion for 
 ### 🏅 Awards & Competitions
 
 - **🏆 Winning Venture, Big Ideas Competition 2025**
-  - My pitch, **Beacon AI** (an AI-first approach to mental health first-aid), was selected as a winning venture in an innovation and entrepreneurship competition hosted by the UA Honors College. [**See the LinkedIn post**](your-linkedin-post-link-here).
+  - My pitch, **Beacon AI** (an AI-first approach to mental health first-aid), was selected as a winning venture in an innovation and entrepreneurship competition hosted by the UA Honors College. [**See the LinkedIn post**](https://www.linkedin.com/feed/update/urn:li:activity:7319171911752527872/).
 
 - **🥈 1st Runner-Up, UA Innovate FinTech Hackathon 2025**
   - Solo-built a GPT+ML engine to analyze spending and create gamified financial insights, earning a top spot in the FinTech track sponsored by PNC Financial Services. [**See the LinkedIn post**](https://www.linkedin.com/feed/update/urn:li:activity:7314022443629649920/).
 
 - **🥈 1st Runner-Up, UA Innovate Hackathon 2024**
-  - As part of a team of four, we achieved 1st Runner-Up in the Prototype Innovation Track sponsored by HCA Healthcare. [**See the LinkedIn post**](your-linkedin-post-link-here).
+  - As part of a team of four, we achieved 1st Runner-Up in the Prototype Innovation Track sponsored by HCA Healthcare. [**See the LinkedIn post**](https://www.linkedin.com/feed/update/urn:li:activity:7170891410106175488/).
 
 ---
 

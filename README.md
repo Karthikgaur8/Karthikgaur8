@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Karthik Gaur! 👋
 
-<!--
-**Karthikgaur8/Karthikgaur8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science student at the University of Alabama with a passion for building high-performance software and data-driven solutions. I have experience in full-stack development, data analytics, and financial technology.
 
-Here are some ideas to get you started:
+- [cite_start]🔭 I’m currently maintaining and extending production websites and internal applications for **The Westervelt Company**.
+- [cite_start]🌱 I’m currently focused on C++, Python, Django, and financial modeling.
+- 💬 Ask me about C++, Python, FinTech, and data structures.
+- [cite_start]⚡ Fun fact: I developed a GPT+ML engine that gamifies financial insights and delivered the MVP in under 20 hours for a hackathon.
+- 📫 How to reach me: **kgaur@crimson.ua.edu** or on [**LinkedIn**](https://www.linkedin.com/in/karthik-gaur-815861167/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 My Tech Stack
+
+| Languages | Frameworks / Libraries | Tools / Databases |
+|---|---|---|
+| C++ | Scikit-learn | Docker |
+| Python | SciPy | Git / GitHub |
+| C | Flask | [cite_start]SSRS  |
+| SQL | Django | PostgreSQL |
+| | Pytest | PowerBI |
+| | OpenAI API | |
+| | Numpy | |
+| | Matplotlib | |
+
+---
+
+### 🏆 My GitHub Stats
+
+[![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karthikgaur8&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikgaur8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---

@@ -40,5 +40,5 @@ I am a Computer Science student at the University of Alabama with a passion for 
 
 ### 🏆 My GitHub Stats
 
-[![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karthikgaur8&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikgaur8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karthikgaur8&show_icons=true&theme=radical)](https://github.com/Karthikgaur8/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikgaur8&layout=compact&theme=radical)](https://github.com/Karthikgaur8/github-readme-stats)

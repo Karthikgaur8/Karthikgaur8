@@ -1,11 +1,11 @@
 # Hi there, I'm Karthik Gaur! 👋
 
-I am a Computer Science student at the University of Alabama with a passion for building high-performance software and data-driven solutions. I have experience in full-stack development, data analytics, and financial technology.
+I am a Computer Science student at the University of Alabama with a passion for building software and data-driven solutions. I have experience in full-stack development, deep learning research data analytics, and financial technology.
 
 - 🔭 I’m currently working as a Data Analyst Intern for The Westervelt Company.
-- 🌱 I’m currently focused on C++, Python, AI, and financial modeling.
+- 🌱 I’m currently focused on Python, AI, Deep Learning and AI Agents.
 - 💬 Ask me about AI, automation and Machine Learning.
-- ⚡ Fun fact: As the SGA's Director of Technology, I used Python to boost process efficiency by 85%. Now, as Treasurer, I help manage a student organization fund of over          $300,000.
+- ⚡ Fun fact: As the SGA's Director of Technology, I used Python to boost process efficiency by 85%. Now, as Treasurer, I help manage SGA portfolio of over          $1M.
 - 📫 How to reach me: **kgaur@crimson.ua.edu** or on [**LinkedIn**](https://www.linkedin.com/in/karthik-gaur-815861167/)
 
 ---
@@ -37,8 +37,3 @@ I am a Computer Science student at the University of Alabama with a passion for 
   - As part of a team of four, we achieved 1st Runner-Up in the Prototype Innovation Track sponsored by HCA Healthcare. [**See the LinkedIn post**](https://www.linkedin.com/feed/update/urn:li:activity:7170891410106175488/).
 
 ---
-
-### 🏆 My GitHub Stats
-
-[![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karthikgaur8&show_icons=true&theme=radical)](https://github.com/Karthikgaur8/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikgaur8&layout=compact&theme=radical)](https://github.com/Karthikgaur8/github-readme-stats)

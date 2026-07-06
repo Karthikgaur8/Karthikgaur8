@@ -9,8 +9,8 @@ CS and Math at the University of Alabama. Building in AI/ML and full-stack.
 ### Currently
 
 - Undergraduate deep learning researcher with Dr. Sergei Gleyzer's lab on the NSF-funded DeepLense project — physics-informed ML for strong gravitational lensing
-- Incoming GSoC 2026 mentor for ML4SCI (Machine Learning for Science)
-- Incoming coop at Alabama Credit Union, fraud detection ML
+- Google Summer of Code 2026 mentor for ML4SCI (Machine Learning for Science)
+- Co-op at Alabama Credit Union, fraud detection ML
 
 ### Selected work
 
